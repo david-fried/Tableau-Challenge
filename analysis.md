@@ -1,7 +1,5 @@
 # Tableau - Citi Bike Analytics
 
-### Link to Tableau Public Profile
-
 [Link to Tableau Public Profile](https://public.tableau.com/profile/david.fried8413#!/)
 
 ### Overview
