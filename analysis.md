@@ -10,7 +10,7 @@ We gathered bike data from Summer 2019 and Summer 2020 Citi Bike Trip History Lo
 
 ##### Data Munging
 
-Prior to analysis with Tableau, we used Pandas in Jupyter Lab (combined_data.ipynb) to create one big CSV from eight CSV files of bike data:
+Prior to analysis with Tableau, we used Pandas in Jupyter Lab (combine_data.ipynb) to create one big CSV from eight CSV files of bike data:
 
 * JC-201906-citibike-tripdata.csv
 * JC-201907-citibike-tripdata.csv
